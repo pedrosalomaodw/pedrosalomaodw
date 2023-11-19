@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá👋 Eu me chamo Pedro Josué!
 
 <!--
 **pedrojosuesalomao/pedrojosuesalomao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrojosuesalomao&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojosuesalomao&layout=compact&theme=dark)
+<br>
+ <a href="https://github.com/pedrojosuesalomao"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""></a>
+
+
