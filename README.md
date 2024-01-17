@@ -1,12 +1,14 @@
 ### Olá👋 Eu me chamo Pedro Josué!
 
-Eu estudo Python, quero me especializar nessa linguagem e em diversas outras.
-Estou iniciando os meus estudos também em Sql e carregando comigo diversas bibliotecas que o Python permite para Data Science e que o projeto fique ótimo.
+**Eu estudo Python, quero me especializar nessa linguagem e em diversas outras.**
+<br>
+**Estou iniciando os meus estudos também em Sql e carregando comigo diversas bibliotecas que o Python permite para Data Science e que o projeto fique ótimo.**
 
-Nunca trabalhei em áreas voltadas em tecnologias, apenas com a minha família. 
-Comecei no front-end aos meus 15 anos de idade, mas acabei largando por causa da minha paixão pelo o back-end e tudo o que pode oferecer e consigo criar apenas colocando a minha imaginação para fora.
+**Nunca trabalhei em áreas voltadas em tecnologias, apenas com a minha família.**
+<br>
+**Comecei no front-end aos meus 15 anos de idade, mas acabei largando por causa da minha paixão pelo o back-end e tudo o que pode oferecer e consigo criar apenas colocando a minha imaginação para fora.**
 
-Pretendo fazer faculdade para o ano que vem de engenharia da computação e sendo física a minha paixão desde de quando eu era bem pequeno.
+**Pretendo fazer faculdade para o ano que vem de engenharia da computação e sendo física a minha paixão desde de quando eu era bem pequeno.**
 
 
 <!--
