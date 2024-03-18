@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosalomaodw&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosalomaodw&layout=compact&theme=dark)
 <br>
- <a href="https://github.com/pedrojosuesalomao"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""></a>
+ <a href="https://github.com/pedrosalomaodw"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""></a>
  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="">
  <br>
-![snake gif](https://github.com/pedrojosuesalomao/pedrojosuesalomao/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/pedrosalomaodw/pedrosalomaodw/blob/output/github-contribution-grid-snake-dark.svg)
 
 
