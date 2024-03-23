@@ -1,6 +1,5 @@
 ### Olá👋 Eu me chamo Pedro Josué!
-<br>
-<p>Sou Carioca da gema</p>
+
 
 <!--
 **pedrojosuesalomao/pedrojosuesalomao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
