@@ -1,11 +1,5 @@
 ### Olá👋 Eu me chamo Pedro Josué!
 
-**Eu estudo Python, quero me especializar nessa linguagem e em diversas outras.**
-<br>
-**Estou iniciando os meus estudos também em Sql e carregando comigo diversas bibliotecas que o Python permite para Data Science e que os meus projetos fiquem ótimos.**
-
-
-
 <!--
 **pedrojosuesalomao/pedrojosuesalomao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
